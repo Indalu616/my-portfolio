@@ -1,0 +1,15 @@
+.about-h2 {
+  font-family: "Potta One";
+}
+.about-dark {
+  background-color: #deeffa;
+}
+.skill{
+  background-color: white;
+}
+
+@media (max-width: 768px) {
+  .about-section {
+    border: none;
+  }
+}

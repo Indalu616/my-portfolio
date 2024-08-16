@@ -1,0 +1,11 @@
+.service-h2 {
+  font-family: "Potta One";
+}
+.service-dark{
+  background-color: #2C579B;
+}
+.service p {
+  /* background-color: white;
+  color: black; */
+  color: white;
+}
