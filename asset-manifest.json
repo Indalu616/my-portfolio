@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.d57c9686.css",
+    "main.js": "/my-portfolio/static/js/main.81897852.js",
+    "static/media/index.png": "/my-portfolio/static/media/index.b1f8a3063d63d0cb7b42.png",
+    "static/media/todo.jpg": "/my-portfolio/static/media/todo.6b13b78af9e1c3c6311b.jpg",
+    "static/media/calculator.jpg": "/my-portfolio/static/media/calculator.8a65adaf81b0430304ee.jpg",
+    "static/media/weather.jpg": "/my-portfolio/static/media/weather.08474ef435b67c10f166.jpg",
+    "static/media/quiz.jpg": "/my-portfolio/static/media/quiz.5e420b4bd55a349bfd79.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.d57c9686.css.map": "/my-portfolio/static/css/main.d57c9686.css.map",
+    "main.81897852.js.map": "/my-portfolio/static/js/main.81897852.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d57c9686.css",
+    "static/js/main.81897852.js"
+  ]
+}
